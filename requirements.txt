@@ -1,5 +1,2 @@
-numpy==1.25.0
-pandas>=2.1.0
-matplotlib<4.0.0
-scikit-learn
-openai
+streamlit==1.28.0
+openai==1.33.0
